@@ -6,7 +6,7 @@ Backend con registro de usuarios e inicio de sesion
 
 Lista y creacion de marcas
 
-Para que el proyecto corra normalmente con la conexion a la BD puede crear la tabla tal cual esta o modificar el nombre de la BD en el código
+Los datos de conexion son:
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
